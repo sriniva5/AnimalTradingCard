@@ -1,0 +1,34 @@
+img{
+	padding: 5px;
+	margin: auto;
+	display: block;
+}
+
+.center {
+    margin: auto;
+    width: 30%;
+    border-style: solid;
+    border-color: darkgray;
+    box-shadow: 5px 10px #dcdcdc;
+    padding: 10px;
+}
+
+.ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.fact{
+	font-style: italic;
+}
+
+.name{
+	font-weight: bold;
+}
+
+.inner{
+	border-style: solid;
+	border-color: gainsboro;
+	padding: 1em
+}

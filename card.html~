@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="styles.css">
+	<title>Animal Trading Cards</title>
+</head>
+<body class = "center">
+	<div class = "outer">
+		<!-- your favorite animal's name goes here -->
+		<h3>Axolotl</h3>
+		<!-- your favorite animal's image goes here -->
+		<img src="g_axolotl.jpg" alt="name-of-your-animal">
+		<div class = "inner">
+			<!-- your favorite animal's interesting fact goes here -->
+			<p class = "fact">Axolotls are amphibians that do not go through metamorphosis. They instead remain aquatic and gilled.</p>
+			<ul class = "ul">
+				<!-- your favorite animal's list items go here -->
+				<li><span class = "name">Scientific Name</span>: Ambystoma mexicanum</li>
+				<li><span class = "name">Average Length</span>: 23 cm</li>
+				<li><span class = "name">Average Lifespan</span>: 15 years</li>
+				<li><span class = "name">Habitat</span>: Lakes in central Mexico</li>
+			</ul>
+			<!-- your favorite animal's description goes here -->
+			<p>Axolotls are critically endangered due to urbanization in Mexico City and water pollution. They are closely related to the tiger salamander. However, they cannont be confused with waterdogs or mudpuppies. The axolotls have a lifespan of 15 years and are know for their wide heads.</p>
+		</div>
+	</div>
+</body>
+</html>
